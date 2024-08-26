@@ -1,4 +1,4 @@
-# coffee_shop
+![2](https://github.com/user-attachments/assets/851f71fa-5151-4e1e-92fe-31ab51c0dbe6)# coffee_shop
 
 A new Flutter project.
 
@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 - Figma Design
 - https://www.figma.com/proto/G5ThCVWOwQHs1OR0VeM2bR/Coffee-Shop-(Community)?node-id=0-1&t=TdsG1aUXSlVXqdTi-1
+- ![2](https://github.com/user-attachments/assets/13ba9deb-c233-4a82-9839-82ac7c5ea296)
+
