@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/851f71fa-5151-4e1e-92fe-31ab51c0dbe6)# coffee_shop
+# coffee_shop
 
 A new Flutter project.
 
